@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<smartplaylist type="movies">
+    <name>Harry Potter</name>
+    <match>all</match>
+    <rule field="title" operator="contains">
+        <value>Harry Potter</value>
+    </rule>
+    <order direction="ascending">year</order>
+</smartplaylist>
