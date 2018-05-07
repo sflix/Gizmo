@@ -1,21 +1,145 @@
-name="Nothing Added Yet (Not Officially Released)"
-section="true"
-search="false"
-subid="false"
-playlistid="false"
-channelid="false"
-videoid="false"
-icon="http://repo.tantrumtv.com/kn/icons/btb.jpg"
-fanart="http://"
-description="Nothing Added Yet (Not Officially Released)"
+<dir>
+        <name>I LOVE THE 80s</name>
+        <link>special://userdata/playlists/video</link>
+		<thumbnail>http://koditips.com/wp-content/uploads/real-debrid-addon.png</thumbnail>
+		<fanart></fanart>
+</dir>
 
-name="Rick and Morty Live Feeds"
-section="false"
-search="Rick and Morty Live&event_type=live"
-subid="false"
-playlistid="false"
-channelid="false"
-videoid="false"
-icon="http://"
-fanart="http://"
-description="Rick and Morty Live Feeds"
+<dir>
+	    <name>Disney</name>
+        <link>special://userdata/playlists/video</link>
+		<thumbnail>http://koditips.com/wp-content/uploads/real-debrid-addon.png</thumbnail>
+		<fanart></fanart>
+</dir>
+
+<dir>
+        <name>[B][COLORred]One Click Movies[/COLOR][/B]</name>
+        <link>https://pastebin.com/raw/L1tXDn3z</link>
+				<thumbnail>https://vignette.wikia.nocookie.net/leonhartimvu/images/4/4b/Iron_Man_Logo.png/revision/latest?cb=20131024021825</thumbnail>
+		<fanart>http://kb4images.com/images/iron-man-wallpapers/36642662-iron-man-wallpapers.jpg</fanart>
+</dir>
+
+<dir>
+        <name>[B][COLORwhite]Marvel/DC[/COLOR][/B]</name>
+        <link>https://pastebin.com/raw/KJFUY79K</link>
+			<thumbnail>https://vignette.wikia.nocookie.net/leonhartimvu/images/4/4b/Iron_Man_Logo.png/revision/latest?cb=20131024021825</thumbnail>
+		<fanart>http://hddesktopwallpaper.org/wp-content/uploads/2016/10/marvel-wallpapers6.jpg</fanart>
+</dir>
+
+<dir>
+<title>[B][COLORred]IMDB Top 250[/COLOR][/B]</title>
+<trakt>https://api.trakt.tv/users/mmounirou/lists/imdb-top-250-movies/items</trakt>
+<thumbnail>https://lh3.ggpht.com/dU67loowFzb0pHw3xgUaYRcM2qhlW4PzEn_WI9tba3jTbvgY1RxM_-3I0N0cG_QFFgI=w300</thumbnail> 
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BZDBkMmFmYmUtODA5OC00ZDBmLTkzZmItZjYyNjZmMjA2MDUyXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_.jpg</fanart>
+</dir>
+
+<dir>
+        <name>[B][COLORwhite]Movies By Years[/COLOR][/B]</name>
+        <link>https://pastebin.com/raw/ELVAFe48</link>
+		<thumbnail>https://vignette.wikia.nocookie.net/leonhartimvu/images/4/4b/Iron_Man_Logo.png/revision/latest?cb=20131024021825</thumbnail>
+		<fanart>http://kb4images.com/images/iron-man-wallpapers/36642662-iron-man-wallpapers.jpg</fanart>
+</dir>
+
+<dir>
+<name>[B][COLORred]Movie Genres[/COLOR][/B]</name>
+<link>https://pastebin.com/raw/wKYy6cVm</link>
+<thumbnail>https://vignette.wikia.nocookie.net/leonhartimvu/images/4/4b/Iron_Man_Logo.png/revision/latest?cb=20131024021825</thumbnail>
+<fanart>http://allpicts.in/download/15/Desktop_Wallpaper_High_Definition_in_1080p_with_Iron_Man_Photos_Download.jpg</fanart>
+</dir>
+
+<dir>
+        <name>[B][COLORwhite]TV Genres[/COLOR][/B]</name>
+        <link>https://pastebin.com/raw/kPCT6Lm2</link>
+		<thumbnail>https://vignette.wikia.nocookie.net/leonhartimvu/images/4/4b/Iron_Man_Logo.png/revision/latest?cb=20131024021825</thumbnail>
+		<fanart>http://walldiskpaper.com/wp-content/uploads/2015/11/Iron-Man-Heroes-Wallpaper-HD-1920X1080.jpg</fanart>
+</dir>
+
+
+<dir>
+        <name>[B][COLORred]Networks[/COLOR][/B]</name>
+        <link>https://pastebin.com/raw/DY9vzY5b</link>
+		<thumbnail>https://vignette.wikia.nocookie.net/leonhartimvu/images/4/4b/Iron_Man_Logo.png/revision/latest?cb=20131024021825</thumbnail>
+		<fanart>https://images5.alphacoders.com/523/thumb-1920-523395.jpg</fanart>
+</dir>
+
+
+<dir>
+<name>[B][COLORwhite]TMDB[/COLOR][/B]</name>
+<link>https://pastebin.com/raw/uXs6iB8C</link>
+<animated_thumbnail></animated_thumbnail>
+<thumbnail>https://vignette.wikia.nocookie.net/leonhartimvu/images/4/4b/Iron_Man_Logo.png/revision/latest?cb=20131024021825</thumbnail>
+<animated_fanart></animated_fanart>
+<fanart>https://hdwallsource.com/img/2016/7/iron-man-desktop-wallpaper-50467-52158-hd-wallpapers.jpg</fanart>
+</dir>
+
+
+<dir>
+<name>[B][COLORred]Movie Boxsets[/COLOR][/B]</name>
+<link>https://pastebin.com/raw/LtZWLwSx</link>
+<animated_thumbnail></animated_thumbnail>
+<thumbnail>https://vignette.wikia.nocookie.net/leonhartimvu/images/4/4b/Iron_Man_Logo.png/revision/latest?cb=20131024021825</thumbnail>
+<animated_fanart></animated_fanart>
+<fanart>https://assets.hongkiat.com/uploads/really-nice-ironman-wallpapers/original/marvel-movie-ironman-wallpaper.jpg</fanart>
+</dir>
+
+<dir>
+<name>[B][COLORwhite]Kids Section[/COLOR][/B]</name>
+<link>https://pastebin.com/raw/XLfwfq97</link>
+<animated_thumbnail></animated_thumbnail>
+<thumbnail>https://vignette.wikia.nocookie.net/leonhartimvu/images/4/4b/Iron_Man_Logo.png/revision/latest?cb=20131024021825</thumbnail>
+<animated_fanart></animated_fanart>
+<fanart>http://www.wallpaper.in/wp-content/uploads/2013/07/iron-man-wallpaper-1920x1080-i6.jpg</fanart>
+</dir>
+
+<dir>
+<name>[B][COLORred]Trakt[/COLOR][/B]</name>
+<link>https://pastebin.com/raw/40vH41hz</link>
+<animated_thumbnail></animated_thumbnail>
+<thumbnail>https://kodi.tv/sites/default/files/addon_assets/script.trakt/icon/icon.png</thumbnail>
+<animated_fanart></animated_fanart>
+<fanart>https://i.imgur.com/OlB9P2k.png</fanart>
+</dir>
+
+<dir>
+<name>[B][COLORwhite]Documentaries[/COLOR][/B]</name>
+<link>https://pastebin.com/raw/p92ac0vq</link>
+<animated_thumbnail></animated_thumbnail>
+<thumbnail>https://vignette.wikia.nocookie.net/leonhartimvu/images/4/4b/Iron_Man_Logo.png/revision/latest?cb=20131024021825</thumbnail>
+<animated_fanart></animated_fanart>
+<fanart>http://www.hdwallpapersfreedownload.com/uploads/large/super-heroes/iron-man-wallpaper-4-1920x1080.jpg</fanart>
+</dir>
+
+<dir>
+        <name>[B][COLORred]Music[/COLOR][/B]</name>
+        <link>https://pastebin.com/raw/qT5sBfTe</link>
+		<thumbnail>http://icongal.com/gallery/download/37981/512/png</thumbnail>
+		<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTmYn2uCjCzYVZ-Y56jDJI1Mi_alJ16BFHjS-W9jpj_x3kdWze7Q</fanart>
+</dir>
+
+<dir>
+        <name>[B][COLORwhite]Search[/COLOR][/B]</name>
+        <link>https://pastebin.com/raw/G23Gvj8x</link>
+		<thumbnail>https://vignette.wikia.nocookie.net/leonhartimvu/images/4/4b/Iron_Man_Logo.png/revision/latest?cb=20131024021825</thumbnail>
+		<fanart>http://www.hdwallpapersfreedownload.com/uploads/large/super-heroes/iron-man-wallpaper-4-1920x1080.jpg</fanart>
+</dir>
+
+<plugin>
+<name>[B][COLORred]Real Debrid Login[/COLOR][/B]</name>
+<link>plugin://script.module.resolveurl/?mode=auth_rd</link>
+<thumbnail>https://vignette.wikia.nocookie.net/leonhartimvu/images/4/4b/Iron_Man_Logo.png/revision/latest?cb=20131024021825</thumbnail>
+</plugin>
+
+<plugin>
+<name>[B][COLORwhite]Settings[/COLOR][/B]</name>
+<link>plugin://plugin.video.ironman/?action=openSettings</link>
+<thumbnail>https://vignette.wikia.nocookie.net/leonhartimvu/images/4/4b/Iron_Man_Logo.png/revision/latest?cb=20131024021825</thumbnail>
+</plugin>
+
+<dir>
+<name>[B][COLORyellow]Test Area[/COLOR][/B]</name>
+<link>https://pastebin.com/raw/MgvhxZfA</link>
+<animated_thumbnail></animated_thumbnail>
+<thumbnail>https://vignette.wikia.nocookie.net/leonhartimvu/images/4/4b/Iron_Man_Logo.png/revision/latest?cb=20131024021825</thumbnail>
+<animated_fanart></animated_fanart>
+<fanart></fanart>
+</dir>
