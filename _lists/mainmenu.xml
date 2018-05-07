@@ -1,13 +1,13 @@
 <dir>
         <name>I LOVE THE 80s</name>
-        <link>https://raw.githubusercontent.com/sflix/Gizmo/master/_lists/Love80s.xsp</link>
+        <link>special://userdata/playlists/video/Love80s.xsp</link>
 		<thumbnail>http://koditips.com/wp-content/uploads/real-debrid-addon.png</thumbnail>
 		<fanart></fanart>
 </dir>
 
 <dir>
 	    <name>Wiazarding World</name>
-        <link>https://raw.githubusercontent.com/sflix/Gizmo/master/_lists/WW.xsp</link>
+        <link>special://userdata/playlists/video/Wizarding World.xsp</link>
 		<thumbnail>http://koditips.com/wp-content/uploads/real-debrid-addon.png</thumbnail>
 		<fanart></fanart>
 </dir>
