@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<smartplaylist type="movies">
+    <name>I Love 80s</name>
+    <match>all</match>
+    <rule field="year" operator="lessthan">
+        <value>1990</value>
+    </rule>
+    <rule field="genre" operator="isnot">
+        <value>Animation</value>
+    </rule>
+    <order direction="descending">rating</order>
+</smartplaylist>
