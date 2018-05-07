@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.myplaylists" name="My PlayLists" version="1.0" provider-name="Sflix">
+<addon id="plugin.video.myplaylists" name="My PlayLists" version="1.1" provider-name="Sflix">
     <requires>
         <import addon="xbmc.python" version="2.19.0" />
         <import addon="script.module.universalscrapers" version="1.0.4.5" />
