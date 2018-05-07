@@ -13,6 +13,13 @@
 </dir>
 
 <dir>
+	    <name>TEST</name>
+        <link>special://userdata/playlists/video</link>
+		<thumbnail>http://koditips.com/wp-content/uploads/real-debrid-addon.png</thumbnail>
+		<fanart></fanart>
+</dir>
+
+<dir>
         <name>[B][COLORred]One Click Movies[/COLOR][/B]</name>
         <link>https://pastebin.com/raw/L1tXDn3z</link>
 				<thumbnail>https://vignette.wikia.nocookie.net/leonhartimvu/images/4/4b/Iron_Man_Logo.png/revision/latest?cb=20131024021825</thumbnail>
