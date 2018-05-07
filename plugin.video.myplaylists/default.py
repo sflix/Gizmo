@@ -21,7 +21,7 @@ import __builtin__
 # CONFIGURATION VARIABLES
 # -----------------------
 # change these to suit your addons
-root_xml_url = "https://pastebin.com/raw/XnjnAbkE"  # url of the root xml file
+root_xml_url = "https://raw.githubusercontent.com/sflix/Gizmo/master/_lists/mainmenu.xml"  # url of the root xml file
 __builtin__.tvdb_api_key = "3F665C2B3390630D"  # tvdb api key
 __builtin__.tmdb_api_key = "21c2173d13c618ef1236695860d4572c"  # tmdb api key
 __builtin__.trakt_client_id = ""  # trakt client id
