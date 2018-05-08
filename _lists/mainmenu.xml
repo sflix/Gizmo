@@ -1,7 +1,7 @@
 <dir>
         <name>I LOVE THE 80s</name>
         <link>special://userdata/playlists/video/Love80s.xsp</link>
-		<thumbnail>http://koditips.com/wp-content/uploads/real-debrid-addon.png</thumbnail>
+		<thumbnail>https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=imgres&cd=&cad=rja&uact=8&ved=2ahUKEwixo8fN0PTaAhXBshQKHStpBxcQjRx6BAgBEAU&url=https%3A%2F%2Fwww.teepublic.com%2Ft-shirt%2F1357005-i-love-the-80s&psig=AOvVaw0Ll4ddNSZF7olTFySywoPH&ust=1525817858726025</thumbnail>
 		<fanart></fanart>
 </dir>
 
@@ -23,5 +23,12 @@
         <name>Heist Movies</name>
         <link>https://raw.githubusercontent.com/sflix/Gizmo/master/_lists/Heist.xsp</link>
 				<thumbnail>https://vignette.wikia.nocookie.net/leonhartimvu/images/4/4b/Iron_Man_Logo.png/revision/latest?cb=20131024021825</thumbnail>
+		<fanart>http://kb4images.com/images/iron-man-wallpapers/36642662-iron-man-wallpapers.jpg</fanart>
+</dir>
+
+<dir>
+        <name>Horror at its Most</name>
+        <link>https://raw.githubusercontent.com/sflix/Gizmo/master/_lists/Heist.xsp</link>
+				<thumbnail>https://i.pinimg.com/originals/93/37/0f/93370fdd8482c01ebed90f2df5ec887d.jpg</thumbnail>
 		<fanart>http://kb4images.com/images/iron-man-wallpapers/36642662-iron-man-wallpapers.jpg</fanart>
 </dir>
