@@ -1,5 +1,5 @@
 <dir>
-        <name>I LOVE THE 80s</name>
+        <name>Made in the 80s</name>
         <link>special://userdata/playlists/video/Love80s.xsp</link>
 		<thumbnail>https://github.com/sflix/Gizmo/blob/master/_art/80s.png</thumbnail>
 		<fanart></fanart>
@@ -14,9 +14,9 @@
 
 <dir>
 	    <name>Disney</name>
-        <link>https://raw.githubusercontent.com/sflix/Gizmo/master/_lists/Dis.xsp</link>
-		<thumbnail>http://koditips.com/wp-content/uploads/real-debrid-addon.png</thumbnail>
-		<fanart></fanart>
+        <link>special://userdata/playlists/video/Disney.xsp</link>
+		<thumbnail>https://github.com/sflix/Gizmo/blob/master/_art/disney.png</thumbnail>
+		<fanart>https://get.wallhere.com/photo/Star-Wars-robot-space-crossover-movies-R2-D2-WALL-E-machine-Pixar-Animation-Studios-screenshot-mecha-1920x1080-px-pc-game-618610.jpg</fanart>
 </dir>
 
 <dir>
