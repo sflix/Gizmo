@@ -8,13 +8,13 @@
 <dir>
 	    <name>Wiazarding World</name>
         <link>special://userdata/playlists/video/Wizarding World.xsp</link>
-		<thumbnail>http://koditips.com/wp-content/uploads/real-debrid-addon.png</thumbnail>
+		<thumbnail>https://raw.githubusercontent.com/sflix/Gizmo/master/_art/platform9.png</thumbnail>
 		<fanart></fanart>
 </dir>
 
 <dir>
 	    <name>Disney</name>
-        <link>special://userdata/playlists/video/Disney.xsp</link>
+        <link>special://userdata/playlists/video/disney.xsp</link>
 		<thumbnail>https://raw.githubusercontent.com/sflix/Gizmo/master/_art/disney.png</thumbnail>
 		<fanart>https://get.wallhere.com/photo/Star-Wars-robot-space-crossover-movies-R2-D2-WALL-E-machine-Pixar-Animation-Studios-screenshot-mecha-1920x1080-px-pc-game-618610.jpg</fanart>
 </dir>
